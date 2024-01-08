@@ -5,7 +5,7 @@
 <div>
   
   🚀 I specialize in backend development, and I'm proficient in building robust and scalable applications. Currently, I'm diving into **Next.js** and enhancing my skills in this exciting technology. <br />
-  📧 Feel free to reach out via email: **your.email@example.com**
+  📧 Feel free to reach out via email: **kawa.135viraj@gmail.com**
 </div>
 <!--Intro end-->
 
