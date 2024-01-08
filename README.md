@@ -1,5 +1,5 @@
 <!--h1 without bottom border-->
-<h1 style="display: inline-block">Hello 👋, I'm Viraj Kawa <br /> A Software Engineer. From India. 🇮🇳 </h1>
+<h1 style="display: inline-block">Hello 👋, I'm Viraj Kawa <br /> A Software Engineer From India. 🇮🇳 </h1>
 
 <!--Intro start-->
 <div>
